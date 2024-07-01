@@ -1,0 +1,30 @@
+C:\Users\Leandro\Desktop\Exe Word a pdf\Word a Pdf.exe
+C:\Users\Leandro\Desktop\Exe Word a pdf\Word a Pdf.dll
+C:\Users\Leandro\Desktop\Exe Word a pdf\Word a Pdf.deps.json
+C:\Users\Leandro\Desktop\Exe Word a pdf\Word a Pdf.runtimeconfig.json
+C:\Users\Leandro\Desktop\Exe Word a pdf\Word a Pdf.pdb
+C:\Users\Leandro\Desktop\Exe Word a pdf\BouncyCastle.Crypto.dll
+C:\Users\Leandro\Desktop\Exe Word a pdf\Xceed.Document.NET5.dll
+C:\Users\Leandro\Desktop\Exe Word a pdf\Xceed.Words.NET5.dll
+C:\Users\Leandro\Desktop\Exe Word a pdf\HarfBuzzSharp.dll
+C:\Users\Leandro\Desktop\Exe Word a pdf\itextsharp.dll
+C:\Users\Leandro\Desktop\Exe Word a pdf\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Leandro\Desktop\Exe Word a pdf\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Leandro\Desktop\Exe Word a pdf\Microsoft.Extensions.Logging.dll
+C:\Users\Leandro\Desktop\Exe Word a pdf\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Leandro\Desktop\Exe Word a pdf\Microsoft.Extensions.Options.dll
+C:\Users\Leandro\Desktop\Exe Word a pdf\Microsoft.Extensions.Primitives.dll
+C:\Users\Leandro\Desktop\Exe Word a pdf\PdfSharp.Charting.dll
+C:\Users\Leandro\Desktop\Exe Word a pdf\PdfSharp.Quality.dll
+C:\Users\Leandro\Desktop\Exe Word a pdf\PdfSharp.Snippets.dll
+C:\Users\Leandro\Desktop\Exe Word a pdf\PdfSharp.System.dll
+C:\Users\Leandro\Desktop\Exe Word a pdf\PdfSharp.WPFonts.dll
+C:\Users\Leandro\Desktop\Exe Word a pdf\PdfSharp.dll
+C:\Users\Leandro\Desktop\Exe Word a pdf\Spire.Doc.dll
+C:\Users\Leandro\Desktop\Exe Word a pdf\Spire.Pdf.dll
+C:\Users\Leandro\Desktop\Exe Word a pdf\de\PdfSharp.Charting.resources.dll
+C:\Users\Leandro\Desktop\Exe Word a pdf\de\PdfSharp.resources.dll
+C:\Users\Leandro\Desktop\Exe Word a pdf\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\Leandro\Desktop\Exe Word a pdf\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\Leandro\Desktop\Exe Word a pdf\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\Leandro\Desktop\Exe Word a pdf\runtimes\win-x86\native\libHarfBuzzSharp.dll
